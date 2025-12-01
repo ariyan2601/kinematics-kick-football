@@ -7,7 +7,7 @@ Contents
 Report.pdf – Full analysis
 /data – Raw coordinate tables
 /graphs – Trajectory, velocity, acceleration plots
-/video – Source video (optional)
+/video – Source video
 
 Methodology
 Frame extraction and tracking
@@ -23,4 +23,4 @@ Slight curved path due to sidespin
 Vertical acceleration explains lift phase 
 
 Skills Used
-Biomechanics • Video Tracking • Data Processing • Python/Excel • Kinematics • Research Writing
+Biomechanics • Video Tracking • Data Processing • Python/Excel • Kinematics • Report Writing
