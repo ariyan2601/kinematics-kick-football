@@ -5,9 +5,9 @@ This project analyzes the 2D trajectory, velocity, and acceleration of a footbal
 
 Contents
 Report.pdf – Full analysis
-/data – Raw coordinate tables
+/data – Raw coordinate tables, source video
 /graphs – Trajectory, velocity, acceleration plots
-/video – Source video
+
 
 Methodology
 Frame extraction and tracking
