@@ -23,4 +23,4 @@ Slight curved path due to sidespin
 Vertical acceleration explains lift phase 
 
 Skills Used
-Biomechanics • Video Tracking • Data Processing • Python/Excel • Kinematics • Report Writing
+Biomechanics • Video Tracking • Data Processing • Excel • Kinematics • Report Writing
