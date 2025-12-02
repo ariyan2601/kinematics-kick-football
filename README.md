@@ -4,7 +4,7 @@ Overview
 This project analyzes the 2D trajectory, velocity, and acceleration of a football free kick using video-based motion tracking. Frame-by-frame coordinates were extracted and processed using numerical differentiation with smoothing filters.
 
 Contents
-Report.pdf – Full analysis
+/report – Full analysis
 /data – Raw coordinate tables, source video
 /graphs – Trajectory, velocity, acceleration plots
 
