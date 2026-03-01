@@ -4,7 +4,7 @@ Version1: Overview:
 This project analyzes the 2D trajectory, velocity, and acceleration of two football free kicks using video-based motion tracking. Frame-by-frame coordinates were extracted and processed using numerical differentiation with smoothing filters.
 
 Version2: 
-Using OpenSim's Inverse kinematics model the 2D coordinates of the ball was used to generate the joint spaces of Hip flexion and knee angle. Thses values were used for static optimization to obtain the load exerted on the muscle due to the eccentric limb movement while kicking the ball
+Using OpenSim's Inverse kinematics model the 2D coordinates of the ball was used to generate the joint spaces of Hip flexion and knee angle. These values were used for static optimization to obtain the load exerted on the muscle due to the eccentric limb movement while kicking the ball
 
 Contents:
 /report – Full analysis
