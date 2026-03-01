@@ -4,7 +4,6 @@ Kinematics Data
 Joint Space data
 [Inswing_muscle_data.xlsx](https://github.com/user-attachments/files/25659449/Inswing_muscle_data.xlsx)
 Muscle Forces Data
-
 [Inswing_muscleInjury.xlsx](https://github.com/user-attachments/files/25659452/Inswing_muscleInjury.xlsx)
 
 Kick B
